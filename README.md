@@ -13,6 +13,7 @@ I am always intrigued by any task that will make me think and go into troublesho
 
 Here are some Languages & Tools i have had experience with and used in Projects :
 
+<br>
 <p>
 
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/>
