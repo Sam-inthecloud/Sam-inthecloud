@@ -2,7 +2,7 @@
 
 # Hi, I'm Sam in the Cloud! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## **`Cloud Engineering, DeVops, Troubleshooting Methods & Continuous Learning`**
+### **`Cloud Engineering, DeVops, Troubleshooting Methods & Continuous Learning`**
 
 ## About Me
 
